@@ -1,0 +1,14 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#f3f4f6"/>
+  <rect x="100" y="80" width="600" height="290" rx="12" fill="white" stroke="#e5e7eb" stroke-width="2"/>
+  <rect x="140" y="120" width="180" height="180" rx="8" fill="#3b82f6" opacity="0.1"/>
+  <rect x="140" y="120" width="180" height="180" rx="8" stroke="#3b82f6" stroke-width="2" stroke-dasharray="8,8"/>
+  <circle cx="230" cy="210" r="40" fill="#3b82f6" opacity="0.2"/>
+  <path d="M205 210 L225 230 L255 190" stroke="#3b82f6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="360" y="120" width="300" height="40" rx="6" fill="#3b82f6" opacity="0.1"/>
+  <rect x="360" y="180" width="300" height="20" rx="4" fill="#e5e7eb"/>
+  <rect x="360" y="220" width="200" height="20" rx="4" fill="#e5e7eb"/>
+  <rect x="360" y="260" width="150" height="20" rx="4" fill="#e5e7eb"/>
+  <rect x="360" y="320" width="140" height="40" rx="6" fill="#3b82f6"/>
+  <text x="500" y="420" text-anchor="middle" fill="#6b7280" font-family="system-ui" font-size="16">E-Commerce Platform</text>
+</svg>
