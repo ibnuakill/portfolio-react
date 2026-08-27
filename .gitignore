@@ -23,6 +23,9 @@ dist-ssr
 .agents/
 AGENTS.md
 
+# One-off local scripts (regen tooling, not part of app source)
+scripts/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
