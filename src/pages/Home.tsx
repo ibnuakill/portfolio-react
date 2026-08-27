@@ -354,7 +354,7 @@ export default function Home() {
               data-aos-duration="1000"
             >
               <div className="w-80 h-80 sm:w-96 sm:h-96 lg:w-[460px] lg:h-[460px] rounded-[2.8rem] overflow-hidden border border-white/10 bg-white/[0.03] backdrop-blur-sm brightness-[1.35] contrast-[1.15] shadow-[0_0_60px_rgba(255,255,255,0.06)]">
-                <AboutParticle src="../public/images/bg-profile.png" />
+                <AboutParticle src="/images/bg-profile.png" />
               </div>
             </div>
           </div>
